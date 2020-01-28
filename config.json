@@ -98,12 +98,6 @@
     }
   ],
 
-  "VerticalLayout": {
-    "layout": "list",
-    "name": "Kişisel Bakım Ürünleri",
-    "category": 358
-  },
-
   "Setting": {
     "MainColor": "#3FC1BE",
     "ProductListLayout": "list"
