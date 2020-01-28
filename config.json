@@ -15,12 +15,20 @@
 
       "items": [
         {
-          "category": 278,
-          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/01/bayatlayan-biskuviyi-degerlendirmenin-yollari-h1526909768-f2faae.jpg"
+          "category": 384,
+          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/01/bebek-bakım.jpg"
         },
         {
-          "category": 221,
-          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/01/temelgida.jpg"
+          "category": 358,
+          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/01/kişisel-bakım.jpg"
+        },
+        {
+          "category": 320,
+          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/01/temizlik.jpg"
+        },
+        {
+          "category": 278,
+          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/01/atıştırmalık.jpg"
         }
       ]
     },
