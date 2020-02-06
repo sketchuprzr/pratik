@@ -15,20 +15,24 @@
 
       "items": [
         {
+          "product": 11468,
+          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/02/BİLDİRİM-ürün-large.jpg.webp"
+        },
+        {
           "category": 384,
-          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/01/bebek-bakım-3.jpg"
+          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/01/bebek-bakım-3.jpg.webp"
         },
         {
           "category": 358,
-          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/01/kişisel-bakım-3.jpg"
+          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/01/kişisel-bakım-3.jpg.webp"
         },
         {
           "category": 320,
-          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/01/temizlik-3.jpg"
+          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/01/temizlik-3.jpg.webp"
         },
         {
           "category": 278,
-          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/01/atıştırmalık-3.jpg"
+          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/01/atıştırmalık-3.jpg.webp"
         }
       ]
     },
