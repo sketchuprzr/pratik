@@ -8,35 +8,35 @@
       "padding": 20.0,
       "radius": 20.0,
 
-      "title": "Alışverişte Yeni Trend!",
+
       "fontSize": 26.0,
       "isSafeArea": true,
-      "showSearch": true,
+      "showSearch": false,
 
       "items": [
         {
           "url": "https://www.pratikbakkal.com/katalog-m/",
-          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/02/şubat-kamp.jpg.webp"
+          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/02/slaytArtboard-225.jpg.webp"
         },
         {
           "category": 324,
-          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/02/bingofresh.jpg.webp"
+          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/02/slaytArtboard-226.jpg.webp"
         },
         {
           "category": 384,
-          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/01/bebek-bakım-3.jpg.webp"
+          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/02/slaytArtboard-220.jpg.webp"
         },
         {
           "category": 358,
-          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/01/kişisel-bakım-3.jpg.webp"
+          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/02/slaytArtboard-224.jpg.webp"
         },
         {
           "category": 320,
-          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/01/temizlik-3.jpg.webp"
+          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/02/slaytArtboard-223.jpg.webp"
         },
         {
           "category": 278,
-          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/01/atıştırmalık-3.jpg.webp"
+          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/02/slaytArtboard-222.jpg.webp"
         }
       ]
     },
