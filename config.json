@@ -46,22 +46,15 @@
       "layout": "threeColumn",
       "category": 640
     },
-
-    {
-      "layout": "header_text",
-      "fontSize": 28.0,
-      "padding": 30.0,
-      "height": 0.2,
-      "title": "TEMİZLİK VAKTİ!",
-      "isSafeArea": true
-    },
     {
       "layout": "bannerImage",
       "isSlider": true,
       "design": "stack",
       "height": 0.4,
       "showBackGround": true,
-      "radius": 2.0,
+      "isBlur": true,
+      "radius": 20.0,
+      "padding": 30.0,
       "items": [
         {
           "category": 321,
