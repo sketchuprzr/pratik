@@ -1,25 +1,101 @@
 {
   "HorizonLayout": [
-
-
-
-    {
-      "layout": "header_text",
-      "fontSize": 20.0,
-      "title": "LÜTFEN UYGULAMAYI GÜNCELLEYİN"
-    },
-
     {
       "layout": "bannerImage",
-      "radius": 2.0,
-      "padding": 0.0,
+      "isSlider": true,
+      "showBackground": true,
+      "isBlur": true,
+      "padding": 20.0,
+      "radius": 20.0,
+
+
+      "fontSize": 26.0,
+      "isSafeArea": true,
+      "showSearch": false,
+
       "items": [
         {
-          "screen": "",
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/hata-01.png",
-          "padding": 0.0
+          "category": 324,
+          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/02/slaytArtboard-226.jpg.webp"
+        },
+        {
+          "category": 384,
+          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/02/slaytArtboard-220.jpg.webp"
+        },
+        {
+          "category": 358,
+          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/02/slaytArtboard-224.jpg.webp"
+        },
+        {
+          "category": 320,
+          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/02/slaytArtboard-223.jpg.webp"
+        },
+        {
+          "category": 278,
+          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/02/slaytArtboard-222.jpg.webp"
         }
       ]
+    },
+    {
+      "name": "İndirimde Olan Ürünler ",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 640
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "design": "stack",
+      "height": 0.4,
+      "showBackGround": true,
+      "isBlur": true,
+      "radius": 20.0,
+      "padding": 30.0,
+      "items": [
+        {
+          "category": 321,
+          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/01/bulaşık-2.jpg ",
+          "padding": 15.0
+        },
+        {
+          "category": 323,
+          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/01/çamaşır-1.jpg",
+          "padding": 15.0
+        },
+        {
+          "category": 324,
+          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/01/ev-temizliyicileri.jpg",
+          "padding": 15.0
+        },
+        {
+          "category": 325,
+          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/01/peçete.jpg",
+          "padding": 15.0
+        },
+        {
+          "category": 322,
+          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/01/mutfak.jpg",
+          "padding": 15.0
+        }
+      ]
+    },
+    {
+      "name": "Her Eve Lazım!",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 221
+    },
+    {
+      "name": "İçinizi Isıtın!",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 304
+    },
+    {
+      "name": "Bebekler için",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 384
     }
   ],
 
@@ -30,7 +106,24 @@
   "TabBar": [
     {
       "layout": "home",
-      "icon": ""
+      "icon": "assets/icons/tabs/icon-home.png"
+    },
+    {
+      "layout": "category",
+      "categoryLayout": "card",
+      "icon": "assets/icons/tabs/icon-category.png"
+    },
+    {
+      "layout": "search",
+      "icon": "assets/icons/tabs/icon-search.png"
+    },
+    {
+      "layout": "cart",
+      "icon": "assets/icons/tabs/icon-cart2.png"
+    },
+    {
+      "layout": "profile",
+      "icon": "assets/icons/tabs/icon-user.png"
     }
   ]
 }
