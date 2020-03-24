@@ -3,6 +3,7 @@
     {
       "layout": "bannerImage",
       "isSlider": true,
+      "autoPlay" : true,
       "showBackground": true,
       "isBlur": true,
       "padding": 20.0,
