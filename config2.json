@@ -4,6 +4,7 @@
       "layout": "bannerImage",
       "isSlider": true,
       "autoPlay" : true,
+      "intervalTime" : 2,
       "showBackground": true,
       "isBlur": true,
       "padding": 20.0,
