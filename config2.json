@@ -5,7 +5,7 @@
       "isSlider": true,
       "autoPlay" : true,
       "intervalTime" : 3,
-      "design" : "stack",
+      "design": "stack",
       "showBackground": true,
       "isBlur": true,
       "padding": 20.0,
