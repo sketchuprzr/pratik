@@ -1,0 +1,36 @@
+{
+  "HorizonLayout": [
+
+
+
+    {
+      "layout": "header_text",
+      "fontSize": 20.0,
+      "title": "EVDE KAL!"
+    },
+
+    {
+      "layout": "bannerImage",
+      "radius": 2.0,
+      "padding": 0.0,
+      "items": [
+        {
+          "screen": "",
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/uyarı.jpg",
+          "padding": 0.0
+        }
+      ]
+    }
+  ],
+
+  "Setting": {
+    "MainColor": "#3e80c1",
+    "ProductListLayout": "list"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": ""
+    }
+  ]
+}
