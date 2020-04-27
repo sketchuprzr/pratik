@@ -113,7 +113,7 @@
     },
     {
       "layout": "category",
-      "categoryLayout": "column",
+      "categoryLayout": "card",
       "icon": "assets/icons/tabs/icon-category.png"
     },
     {
