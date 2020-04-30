@@ -89,12 +89,6 @@
       "category": 221
     },
     {
-      "name": "İçinizi Isıtın!",
-      "image": "",
-      "layout": "threeColumn",
-      "category": 304
-    },
-    {
       "name": "Bebekler için",
       "image": "",
       "layout": "threeColumn",
@@ -103,7 +97,7 @@
   ],
 
   "Setting": {
-    "MainColor": "#3e80c1",
+    "MainColor": "#3299CC",
     "ProductListLayout": "list"
   },
   "TabBar": [
