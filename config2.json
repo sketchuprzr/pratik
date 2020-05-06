@@ -6,7 +6,7 @@
     {
       "layout": "header_text",
       "fontSize": 20.0,
-      "title": "EVDE KAL!"
+      "title": "LÜTFEN UYGULAMAYI GÜNCELLEYİN!"
     },
 
     {
@@ -16,7 +16,7 @@
       "items": [
         {
           "screen": "",
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/uyarı.jpg",
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/hata-01.png",
           "padding": 0.0
         }
       ]
