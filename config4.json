@@ -35,6 +35,16 @@
         }
       ]
     },
+        {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "product": "7709",
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/limonata.png",
+          "padding": 5.0
+        }
+      ]
+    },
     {
       "name": "İndirimde Olan Ürünler ",
       "image": "",
