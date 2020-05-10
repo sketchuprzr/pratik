@@ -66,11 +66,7 @@
       "layout": "twoColumn",
       "category": 384,
       "isSnapping": true
-    },
-    {
-      "layout": "blog",
-      "name": "Kampanya Ve Haberler"
-    }    
+    }
   ],
   "Setting": {
     "MainColor": "#3299CC",
