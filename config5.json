@@ -67,6 +67,10 @@
       "category": 384,
       "isSnapping": true
     }
+    {
+      "layout": "blog",
+      "name": "Kampanya ve Haberler"
+    }    
   ],
   "Setting": {
     "MainColor": "#3299CC",
