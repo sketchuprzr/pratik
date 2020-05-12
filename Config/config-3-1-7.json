@@ -10,6 +10,7 @@
       "layout": "bannerImage",
       "isSlider": true,
       "autoPlay": true,
+      "intervalTime" : 5,
       "showNumber": true,
       "design": "default",
       "showBackGround": true,
