@@ -48,12 +48,17 @@
       "items": [
         {
           "product": "",
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/ana%20sayfa/info1.jpg",
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/info/info1.jpg",
           "padding": 4.0
         },
         {
           "url": "https://www.pratikbakkal.com/urun-iade-formu",
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/ana%20sayfa/info2.jpg",
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/info/info2.jpg",
+          "padding": 4.0
+        },
+        {
+          "url": "https://www.pratikbakkal.com/urun-talep-formu-2/",
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/info/info3.jpg",
           "padding": 4.0
         }
       ]
