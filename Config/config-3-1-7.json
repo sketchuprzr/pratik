@@ -59,10 +59,16 @@
       ]
     },
     {
-      "name": "İndirimde Olan Ürünler ",
+      "name": "İndirimde Olan Ürünler",
       "image": "",
       "layout": "threeColumn",
       "category": 640
+    },
+    {
+      "name": "Önce Temizlik",
+      "image": "",
+      "layout": "fourColumn",
+      "category": 320
     },
     {
       "name": "Her Eve Lazım!",
