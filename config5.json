@@ -10,26 +10,36 @@
       "layout": "bannerImage",
       "isSlider": true,
       "autoPlay": true,
+      "intervalTime" : 5,
       "showNumber": true,
       "design": "default",
       "showBackGround": true,
       "radius": 2.0,
+      "padding": 15.0,
       "items": [
         {
+          "category": 264,
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/sahur-min.jpg"
+        },
+        {
+          "category": 298,
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/iftar-min.jpg"
+        },
+        {
           "category": 384,
-          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/02/slaytArtboard-220.jpg.webp"
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/bebek-min.jpg"
         },
         {
           "category": 358,
-          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/02/slaytArtboard-224.jpg.webp"
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/kişisel-min.jpg"
+        },
+        {
+          "category": 221,
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/temel-min.jpg"
         },
         {
           "category": 320,
-          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/02/slaytArtboard-223.jpg.webp"
-        },
-        {
-          "category": 278,
-          "image": "https://www.pratikbakkal.com/wp-content/uploads/2020/02/slaytArtboard-222.jpg.webp"
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/temizlik-min.jpg"
         }
       ]
     },
@@ -37,35 +47,49 @@
       "layout": "bannerImage",
       "items": [
         {
-          "product": "7709",
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/limonata.png",
-          "padding": 5.0
+          "product": "",
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/info/info1.jpg",
+          "padding": 4.0
+        },
+        {
+          "url": "https://www.pratikbakkal.com/urun-iade-formu",
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/info/info2.jpg",
+          "padding": 4.0
+        },
+        {
+          "url": "https://www.pratikbakkal.com/urun-talep-formu-2/",
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/info/info3.jpg",
+          "padding": 4.0
         }
       ]
     },
     {
-      "name": "İndirimde Olan Ürünler ",
+      "name": "İndirimde Olan Ürünler",
       "image": "",
       "layout": "threeColumn",
       "category": 640
     },
     {
-      "name": "Göz Attıklarınız",
-      "layout": "recentView"
+      "name": "Önce Temizlik",
+      "image": "",
+      "layout": "fourColumn",
+      "category": 320
     },
     {
       "name": "Her Eve Lazım!",
       "image": "",
       "layout": "threeColumn",
-      "category": 221,
-      "isSnapping": true
+      "category": 221
     },
     {
       "name": "Bebekler için",
       "image": "",
-      "layout": "twoColumn",
-      "category": 384,
-      "isSnapping": true
+      "layout": "threeColumn",
+      "category": 384
+    },
+    {
+      "name": "Göz Attıklarınız",
+      "layout": "recentView"
     }
   ],
   "Setting": {
