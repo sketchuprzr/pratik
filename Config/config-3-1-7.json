@@ -64,6 +64,21 @@
       ]
     },
     {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "category": 716,
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/bayram.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bayrama Özel",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 716
+    },
+    {
       "name": "İndirimde Olan Ürünler",
       "image": "",
       "layout": "threeColumn",
