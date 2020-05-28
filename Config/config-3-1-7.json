@@ -18,14 +18,6 @@
       "padding": 15.0,
       "items": [
         {
-          "category": 264,
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/sahur-min.jpg"
-        },
-        {
-          "category": 298,
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/iftar-min.jpg"
-        },
-        {
           "category": 384,
           "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/bebek-min.jpg"
         },
@@ -62,21 +54,6 @@
           "padding": 4.0
         }
       ]
-    },
-    {
-      "layout": "bannerImage",
-      "items": [
-        {
-          "category": 716,
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/bayram.jpg"
-        }
-      ]
-    },
-    {
-      "name": "Bayrama Özel",
-      "image": "",
-      "layout": "threeColumn",
-      "category": 716
     },
     {
       "name": "İndirimde Olan Ürünler",
