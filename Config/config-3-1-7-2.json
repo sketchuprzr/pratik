@@ -78,13 +78,13 @@
     {
       "name": "İndirimde Olan Ürünler",
       "image": "",
-      "layout": "fourColumn",
+      "layout": "threeColumn",
       "category": 640
     },
     {
       "name": "Önce Temizlik",
       "image": "",
-      "layout": "fourColumn",
+      "layout": "threeColumn",
       "category": 320
     },
     {
