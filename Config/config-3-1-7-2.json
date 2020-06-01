@@ -18,12 +18,8 @@
       "padding": 15.0,
       "items": [
         {
-          "category": 264,
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/sahur-min.jpg"
-        },
-        {
-          "category": 298,
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/iftar-min.jpg"
+          "category": 305,
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/dünya-süt-günü.png"
         },
         {
           "category": 384,
@@ -69,6 +65,7 @@
       "padding": 40.0,
       "height": 0.17,
       "rotate": [
+        "Dünya Süt Günü", 
         "Pratik Bakkal",
         "Evde Kal"
       ],
