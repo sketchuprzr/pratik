@@ -98,6 +98,10 @@
     {
       "name": "Göz Attıklarınız",
       "layout": "recentView"
+    },
+    {
+      "name": "Haberler!",
+      "layout": "blog"
     }
   ],
   "Setting": {
