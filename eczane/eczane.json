@@ -1,7 +1,5 @@
-[
-  {
-    "isim": "isim",
-    "adres": "adres",
-    "telefon": "0505 123 4567",
-  }
-]
+{
+  "isim": "isim",
+  "adres": "isim",
+  "telefon": "isim"
+}
