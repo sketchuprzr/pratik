@@ -3,7 +3,7 @@
     {
       "layout": "logo",
       "showMenu": true,
-      "showSearch": true,
+      "showSearch": false,
       "showLogo": true
     },
     {
@@ -18,12 +18,8 @@
       "padding": 15.0,
       "items": [
         {
-          "category": 264,
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/sahur-min.jpg"
-        },
-        {
-          "category": 298,
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/iftar-min.jpg"
+          "screen": "/blogs",
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/pp-slayt.png"
         },
         {
           "category": 384,
@@ -64,6 +60,18 @@
       ]
     },
     {
+      "layout": "header_text",
+      "fontsize": 20.0,
+      "padding": 40.0,
+      "height": 0.17,
+      "rotate": [
+        "Pratik Bakkal",
+        "Evde Kal"
+      ],
+      "type": "enes",
+      "showSearch": true
+    },
+    {
       "name": "İndirimde Olan Ürünler",
       "image": "",
       "layout": "threeColumn",
@@ -72,7 +80,7 @@
     {
       "name": "Önce Temizlik",
       "image": "",
-      "layout": "fourColumn",
+      "layout": "threeColumn",
       "category": 320
     },
     {
@@ -88,8 +96,8 @@
       "category": 384
     },
     {
-      "name": "Göz Attıklarınız",
-      "layout": "recentView"
+      "name": "Haberler!",
+      "layout": "blog"
     }
   ],
   "Setting": {
@@ -121,8 +129,9 @@
     }
   ],
   "searchSuggestion": [
-    "zeytinyağı",
-    "şampuan"
+    "Ona ayçiçek yağı",
+    "bizim margarin",
+    "toz şeker"
   ],
   "OnBoarding": {
     "data": [
