@@ -126,6 +126,7 @@
     {
       "layout": "profile",
       "icon": "assets/icons/tabs/icon-user.png"
+      "showChat": true      
     }
   ],
   "searchSuggestion": [
