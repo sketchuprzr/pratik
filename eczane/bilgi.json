@@ -1,4 +1,26 @@
 {
+"başlık_1_göster": "evet",
+"başlık_1": "Önerilen Eczane",
+  
+"resim_göster": "evet",
+"önerilen_eczane_resim": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/eczane/doctor.png"  
+  
+"başlık_2_göster": "evet",  
+"başlık_2": "Enes Eczanesi",
+  
+"alt_başlık_1_göster": "evet",
+"alt_başlık_1": "Önerilen Eczane",
+  
+"başlık_3_göster": "evet",
+"başlık_3": "Eczane Hakkında",
+  
+"açıklama_1_göster": "evet", 
+"açıklama_1": "Enes Eczanesi, sizlerin sağlığı için kaliteli ve uygun önerilen tıbbi ürünleri temin ediyor.", 
+  
+"harita_göster": "evet",
+"google_harita": "Enes Eczanesi Mardin Nusaybin"  
+"yandex_harita": "Enes Eczanesi Mardin Nusaybin"  
+  
 "item1": "25 Temmuz 2020 Cumartesi",
 "item2": "Değer Eczanesi"
 }
