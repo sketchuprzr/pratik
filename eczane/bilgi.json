@@ -24,6 +24,12 @@
 "google_harita": "Enes Eczanesi Mardin Nusaybin",  
 "yandex_harita": "Enes Eczanesi Mardin Nusaybin",  
   
-"item1": "25 Temmuz 2020 Cumartesi",
-"item2": "Değer Eczanesi"
+"ürün_göster": "evet",
+"ürün_başlığı": "Önerilen Ürün",
+"ürün_ismi":"DERHAND El Dezenfektanı",
+"ürün_açıklaması":"1500 ml ultra anti bakteriyel koruyucu el dezenfektanı, tutamaç ile birlikte verilmektedir.", 
+"ürün_indirimlimi":"evet",  
+"ürün_fiyatı":"25",
+"ürün_inidirimsiz_fiyatı":"45",  
+"ürün_resmi":"https://raw.githubusercontent.com/sketchuprzr/pratik/master/eczane/ürün.jpg"  
 }
