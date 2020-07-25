@@ -1,30 +1,30 @@
 {
-"başlık_1_göster": "evet",
+"başlık_1_göster": "hayır",
 "başlık_1": "Önerilen Eczane",
   
-"resim_göster": "evet",
+"resim_göster": "hayır",
 "önerilen_eczane_resim": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/eczane/doctor.png",  
   
-"başlık_2_göster": "evet",  
+"başlık_2_göster": "hayır",  
 "başlık_2": "Enes Eczanesi",
   
-"alt_başlık_1_göster": "evet",
+"alt_başlık_1_göster": "hayır",
 "alt_başlık_1": "Önerilen Eczane",
   
-"telefon_göster":"evet",
+"telefon_göster":"hayır",
 "telefon":"0555 123 4567",  
   
-"başlık_3_göster": "evet",
+"başlık_3_göster": "hayır",
 "başlık_3": "Eczane Hakkında",
   
-"açıklama_1_göster": "evet", 
+"açıklama_1_göster": "hayır", 
 "açıklama_1": "Enes Eczanesi, sizlerin sağlığı için kaliteli ve uygun önerilen tıbbi ürünleri temin ediyor.", 
   
-"harita_göster": "evet",
+"harita_göster": "hayır",
 "google_harita": "Enes Eczanesi Mardin Nusaybin",  
 "yandex_harita": "Enes Eczanesi Mardin Nusaybin",  
   
-"ürün_göster": "evet",
+"ürün_göster": "hayır",
 "ürün_başlığı": "Önerilen Ürün",
 "ürün_ismi":"DERHAND El Dezenfektanı",
 "ürün_açıklaması":"1500 ml ultra anti bakteriyel koruyucu el dezenfektanı, tutamaç ile birlikte verilmektedir.", 
