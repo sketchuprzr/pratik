@@ -27,10 +27,9 @@
 "ürün_göster": "hayır",
 "ürün_başlığı": "Önerilen Ürün",
 "ürün_ismi":"DERHAND El Dezenfektanı",
-"ürün_açıklaması":"", 
+"ürün_açıklaması":"Ürün açıklama kısmı. bu alanda ürün hakkında açıklama yapılabilir. Yapılan açıklamanın uzunluğu önemli değildir.", 
 "ürün_indirimlimi":"evet",  
 "ürün_fiyatı":"25",
 "ürün_inidirimsiz_fiyatı":"45",  
-"ürün_resmi":"https://raw.githubusercontent.com/sketchuprzr/pratik/master/eczane/ürün.jpg",
-  "phone" : ""
+"ürün_resmi":"https://raw.githubusercontent.com/sketchuprzr/pratik/master/eczane/ürün.jpg"
 }
