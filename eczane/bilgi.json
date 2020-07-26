@@ -31,5 +31,6 @@
 "ürün_indirimlimi":"evet",  
 "ürün_fiyatı":"25",
 "ürün_inidirimsiz_fiyatı":"45",  
-"ürün_resmi":"https://raw.githubusercontent.com/sketchuprzr/pratik/master/eczane/ürün.jpg"
+"ürün_resmi":"https://raw.githubusercontent.com/sketchuprzr/pratik/master/eczane/ürün.jpg",
+  "phone" : "0"
 }
