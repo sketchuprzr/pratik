@@ -18,9 +18,8 @@
       "layout": "bannerImage",
       "items": [
         {
-          "product": "",
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/medya/guncelleme%20ios.png",
-          "padding": 4.0
+          "url_launch": "https://apps.apple.com/tt/app/pratik-bakkal/id1501414887",
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/medya/ios.jpg"
         }
       ]
     }
