@@ -18,9 +18,8 @@
       "layout": "bannerImage",
       "items": [
         {
-          "product": "",
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/medya/guncelleme%20android.png",
-          "padding": 4.0
+          "url_launch": "https://play.google.com/store/apps/details?id=com.tdizayn.pratikbakkal",
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/medya/android.jpg"
         }
       ]
     }
