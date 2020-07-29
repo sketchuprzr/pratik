@@ -18,6 +18,10 @@
       "padding": 15.0,
       "items": [
         {
+          "category": 722,
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/sağlıklı%20kal.jpg"
+        },
+        {
           "screen": "/blogs",
           "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/pp-slayt.png"
         },
@@ -70,6 +74,12 @@
       ],
       "type": "enes",
       "showSearch": true
+    },
+    {
+      "name": "Sağlıklı Kal!",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 722
     },
     {
       "name": "İndirimde Olan Ürünler",
