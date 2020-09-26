@@ -112,11 +112,6 @@
     {
       "name": "Haberler!",
       "layout": "blog"
-    },
-    {
-      "layout": "header_text",
-      "height": 0.17,
-      "type": "eczane"
     }
   ],
   "Setting": {
