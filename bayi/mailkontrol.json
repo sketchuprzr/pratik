@@ -3,4 +3,12 @@
     "mail": "test@test.com",
     "isim": "enes",
   },
+  {
+    "mail": "test2@test.com",
+    "isim": "enes2",
+  },
+  {
+    "mail": "test3@test.com",
+    "isim": "enes3",
+  },
 ]
