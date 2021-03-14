@@ -7,12 +7,19 @@
       "showLogo": false
     },
     {
+      "layout": "header_text",
+      "fontSize": 18,
+      "title": "Uygulamayı Kullanabilmek için Güncelle!",
+      "padding": 30,
+      "showSearch": false,
+      "isSafeArea": true
+    },
+    {
       "layout": "bannerImage",
       "items": [
         {
-          "product": "",
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/uyarı.jpg",
-          "padding": 4.0
+          "url_launch": "https://play.google.com/store/apps/details?id=com.tdizayn.pratikbakkal",
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/medya/android.jpg"
         }
       ]
     }
