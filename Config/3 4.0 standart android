@@ -1,1 +1,185 @@
-
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": false,
+      "showLogo": true
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "autoPlay": true,
+      "showNumber": true,
+      "intervalTime": 5,
+      "design": "default",
+      "showBackGround": true,
+      "radius": 2,
+      "items": [
+        {
+          "product": "16663",
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/clltbangbildirimslayt.jpg",
+          "padding": 15
+        },
+        {
+          "category": 722,
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/sağlıklı%20kal.jpg",
+          "padding": 15
+        },
+        {
+          "screen": "/blogs",
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/pp-slayt.png",
+          "padding": 15
+        },
+        {
+          "category": 384,
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/bebek-min.jpg",
+          "padding": 15
+        },
+        {
+          "category": 358,
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/kişisel-min.jpg",
+          "padding": 15
+        },
+        {
+          "category": 221,
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/temel-min.jpg",
+          "padding": 15
+        },
+        {
+          "category": 320,
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/temizlik-min.jpg",
+          "padding": 15
+        }
+      ]
+    },
+    {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "product": "",
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/info/info1.jpg",
+          "padding": 4
+        },
+        {
+          "url": "https://www.pratikbakkal.com/urun-iade-formu",
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/info/info2.jpg",
+          "padding": 4
+        },
+        {
+          "url": "https://www.pratikbakkal.com/urun-talep-formu-2/",
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/info/info3.jpg",
+          "padding": 4
+        }
+      ]
+    },
+    {
+      "layout": "header_text",
+      "fontsize": 20,
+      "padding": 40,
+      "height": 0.17,
+      "rotate": [
+        "Pratik Bakkal",
+        "Evde Kal"
+      ],
+      "type": "enes",
+      "showSearch": true
+    },
+    {
+      "name": "Kampanyalı Ürünler 🎁",
+      "image": "",
+      "layout": "saleOff",
+      "category": 320
+    },
+    {
+      "name": "Sağlıklı Kal!",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 722
+    },
+    {
+      "name": "Önce Temizlik",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 320
+    },
+    {
+      "name": "Her Eve Lazım!",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 221
+    },
+    {
+      "name": "Bebekler için",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 384
+    },
+    {
+      "layout": "header_text",
+      "type": "ezan",
+      "height": 0.174
+    },
+    {
+      "name": "Haberler",
+      "layout": "blog"
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3299CC",
+    "ProductListLayout": "list",
+    "StickyHeader": false,
+    "ShowChat": true
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "assets/icons/tabs/icon-home.png"
+    },
+    {
+      "layout": "category",
+      "categoryLayout": "card",
+      "icon": "assets/icons/tabs/icon-category.png"
+    },
+    {
+      "layout": "search",
+      "icon": "assets/icons/tabs/icon-search.png"
+    },
+    {
+      "layout": "cart",
+      "icon": "assets/icons/tabs/icon-cart2.png"
+    },
+    {
+      "layout": "profile",
+      "icon": "assets/icons/tabs/icon-user.png",
+      "showChat": true
+    }
+  ],
+  "searchSuggestion": [
+    "Ona ayçiçek yağı",
+    "bizim margarin",
+    "toz şeker"
+  ],
+  "OnBoarding": {
+    "data": [
+      {
+        "title": "Rahat Alışveriş , Rahat Teslimat!",
+        "image": "assets/images/rahat.png",
+        "desc": "Uygulamamızı kullanarak bir kaç adımda istediğin ürünlere ulaş! \n Siparişini ister Mağazada, İster Adresinde Teslim Al! ",
+        "background": "#FFF3F2"
+      },
+      {
+        "title": "Rahat Ödeme, Bol Kampanya!",
+        "image": "assets/images/odeme.png",
+        "desc": "İster Nakit, İster Kart ile ödeme yap! \n Her gün farklı kampanyalardan yararlanma fırsatı bul!",
+        "background": "#F2FFFC"
+      },
+      {
+        "title": "Hemen Sende Katıl!",
+        "image": "assets/images/girisyap.png",
+        "desc": "Platforma üye ol ve Alışverişin Tadını Çıkar!",
+        "background": "#F9F2FF"
+      }
+    ]
+  }
+}
