@@ -116,9 +116,18 @@
       "category": 384
     },
     {
-      "layout": "header_text",
       "type": "ezan",
-      "height": 0.19
+      "layout": "header_text",
+      "height": 0.22
+    },
+    {
+      "type": "saat",
+      "height": 0.17,
+      "layout": "header_text",
+      "ac": "09:00",
+      "kp": "21:00",
+      "acbaslik": "AÇILIŞ",
+      "kpbaslik": "KAPANIŞ",
     },
     {
       "name": "Haberler",
