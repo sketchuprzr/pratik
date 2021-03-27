@@ -14,42 +14,42 @@
       "intervalTime": 5,
       "design": "default",
       "showBackGround": true,
-      "radius": 2,
+      "radius": 2.0,
       "items": [
         {
           "product": "16663",
           "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/clltbangbildirimslayt.jpg",
-          "padding": 15
+          "padding": 15.0
         },
         {
           "category": 722,
           "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/sağlıklı%20kal.jpg",
-          "padding": 15
+          "padding": 15.0
         },
         {
           "screen": "/blogs",
           "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/pp-slayt.png",
-          "padding": 15
+          "padding": 15.0
         },
         {
           "category": 384,
           "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/bebek-min.jpg",
-          "padding": 15
+          "padding": 15.0
         },
         {
           "category": 358,
           "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/kişisel-min.jpg",
-          "padding": 15
+          "padding": 15.0
         },
         {
           "category": 221,
           "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/temel-min.jpg",
-          "padding": 15
+          "padding": 15.0
         },
         {
           "category": 320,
           "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/temizlik-min.jpg",
-          "padding": 15
+          "padding": 15.0
         }
       ]
     },
@@ -116,9 +116,18 @@
       "category": 384
     },
     {
-      "layout": "header_text",
       "type": "ezan",
-      "height": 0.174
+      "layout": "header_text",
+      "height": 0.22
+    },
+    {
+      "type": "saat",
+      "height": 0.22,
+      "layout": "header_text",
+      "ac": "09:00",
+      "kp": "21:00",
+      "acbaslik": "AÇILIŞ",
+      "kpbaslik": "KAPANIŞ"
     },
     {
       "name": "Haberler",
@@ -126,16 +135,15 @@
     }
   ],
   "Setting": {
-    "MainColor": "#3299CC",
+    "MainColor": "#FF9300",
     "ProductListLayout": "list",
     "StickyHeader": false,
     "ShowChat": true
   },
-  "TabBar": [
-    {
-      "layout": "home",
-      "icon": "assets/icons/tabs/icon-home.png"
-    },
+  "TabBar": [{
+    "layout": "home",
+    "icon": "assets/icons/tabs/icon-home.png"
+  },
     {
       "layout": "category",
       "categoryLayout": "card",
