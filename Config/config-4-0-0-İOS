@@ -2,136 +2,19 @@
   "HorizonLayout": [
     {
       "layout": "logo",
-      "showMenu": true,
+      "showMenu": false,
       "showSearch": false,
-      "showLogo": true
-    },
-    {
-      "layout": "bannerImage",
-      "isSlider": true,
-      "autoPlay": true,
-      "showNumber": true,
-      "intervalTime": 5,
-      "design": "default",
-      "showBackGround": true,
-      "radius": 2.0,
-      "items": [
-        {
-          "product": "16663",
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/clltbangbildirimslayt.jpg",
-          "padding": 15.0
-        },
-        {
-          "category": 722,
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/sağlıklı%20kal.jpg",
-          "padding": 15.0
-        },
-        {
-          "screen": "/blogs",
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/pp-slayt.png",
-          "padding": 15.0
-        },
-        {
-          "category": 384,
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/bebek-min.jpg",
-          "padding": 15.0
-        },
-        {
-          "category": 358,
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/kişisel-min.jpg",
-          "padding": 15.0
-        },
-        {
-          "category": 221,
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/temel-min.jpg",
-          "padding": 15.0
-        },
-        {
-          "category": 320,
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/temizlik-min.jpg",
-          "padding": 15.0
-        }
-      ]
+      "showLogo": false
     },
     {
       "layout": "bannerImage",
       "items": [
         {
           "product": "",
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/info/info1.jpg",
-          "padding": 4
-        },
-        {
-          "url": "https://www.pratikbakkal.com/urun-iade-formu",
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/info/info2.jpg",
-          "padding": 4
-        },
-        {
-          "url": "https://www.pratikbakkal.com/urun-talep-formu-2/",
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/info/info3.jpg",
-          "padding": 4
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/medya/yakinda.gif",
+          "radius": 0
         }
       ]
-    },
-    {
-      "layout": "header_text",
-      "fontsize": 20,
-      "padding": 40,
-      "height": 0.17,
-      "rotate": [
-        "Pratik Bakkal",
-        "Evde Kal"
-      ],
-      "type": "enes",
-      "showSearch": true
-    },
-    {
-      "name": "Kampanyalı Ürünler 🎁",
-      "image": "",
-      "layout": "saleOff",
-      "category": 320
-    },
-    {
-      "name": "Sağlıklı Kal!",
-      "image": "",
-      "layout": "threeColumn",
-      "category": 722
-    },
-    {
-      "name": "Önce Temizlik",
-      "image": "",
-      "layout": "threeColumn",
-      "category": 320
-    },
-    {
-      "name": "Her Eve Lazım!",
-      "image": "",
-      "layout": "threeColumn",
-      "category": 221
-    },
-    {
-      "name": "Bebekler için",
-      "image": "",
-      "layout": "threeColumn",
-      "category": 384
-    },
-    {
-      "type": "ezan",
-      "layout": "header_text",
-      "height": 0.22
-    },
-    {
-      "type": "saat",
-      "height": 0.22,
-      "layout": "header_text",
-      "ac": "09:00",
-      "kp": "21:00",
-      "acbaslik": "AÇILIŞ",
-      "kpbaslik": "KAPANIŞ"
-    },
-    {
-      "name": "Haberler",
-      "layout": "blog"
     }
   ],
   "Setting": {
@@ -140,27 +23,10 @@
     "StickyHeader": false,
     "ShowChat": true
   },
-  "TabBar": [{
-    "layout": "home",
-    "icon": "assets/icons/tabs/icon-home.png"
-  },
+  "TabBar": [
     {
-      "layout": "category",
-      "categoryLayout": "card",
-      "icon": "assets/icons/tabs/icon-category.png"
-    },
-    {
-      "layout": "search",
-      "icon": "assets/icons/tabs/icon-search.png"
-    },
-    {
-      "layout": "cart",
-      "icon": "assets/icons/tabs/icon-cart2.png"
-    },
-    {
-      "layout": "profile",
-      "icon": "assets/icons/tabs/icon-user.png",
-      "showChat": true
+      "layout": "home",
+      "icon": ""
     }
   ],
   "searchSuggestion": [
