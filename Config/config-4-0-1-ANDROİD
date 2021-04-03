@@ -1,0 +1,59 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": false,
+      "showSearch": false,
+      "showLogo": false
+    },
+    {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "product": "",
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/medya/yakinda.gif",
+          "radius": 0
+        }
+      ]
+    }
+  ],
+  "Setting": {
+    "MainColor": "#FF9300",
+    "ProductListLayout": "list",
+    "StickyHeader": false,
+    "ShowChat": true
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": ""
+    }
+  ],
+  "searchSuggestion": [
+    "Ona ayçiçek yağı",
+    "bizim margarin",
+    "toz şeker"
+  ],
+  "OnBoarding": {
+    "data": [
+      {
+        "title": "Rahat Alışveriş , Rahat Teslimat!",
+        "image": "assets/images/rahat.png",
+        "desc": "Uygulamamızı kullanarak bir kaç adımda istediğin ürünlere ulaş! \n Siparişini ister Mağazada, İster Adresinde Teslim Al! ",
+        "background": "#FFF3F2"
+      },
+      {
+        "title": "Rahat Ödeme, Bol Kampanya!",
+        "image": "assets/images/odeme.png",
+        "desc": "İster Nakit, İster Kart ile ödeme yap! \n Her gün farklı kampanyalardan yararlanma fırsatı bul!",
+        "background": "#F2FFFC"
+      },
+      {
+        "title": "Hemen Sende Katıl!",
+        "image": "assets/images/girisyap.png",
+        "desc": "Platforma üye ol ve Alışverişin Tadını Çıkar!",
+        "background": "#F9F2FF"
+      }
+    ]
+  }
+}
