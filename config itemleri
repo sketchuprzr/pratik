@@ -22,3 +22,29 @@
           "padding": 15.0
         },
         
+        
+    {
+      "layout": "threeColumn",
+      "name": "Sağlıklı Kal!",
+      "image": "",
+      "category": 722
+    },
+    
+    {
+      "name": "Kampanyalı Ürünler 🎁",
+      "image": "",
+      "layout": "saleOff",
+      "category": 320
+    },
+    
+    {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "image": "https://trello-attachments.s3.amazonaws.com/5fb8de4a9ffe12204a2a3607/700x263/f5d6007a5563735691c68eb12563d1e5/image.png",
+          "coupon": "hsgldn25",
+          "padding": 8.0,
+          "radius": 9.0
+        }
+      ]
+    },
