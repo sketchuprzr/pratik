@@ -1,0 +1,24 @@
+        {
+          "screen": "/blogs",
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/pp-slayt.png",
+          "padding": 15.0
+        },
+        
+        {
+          "url_launch": "https://play.google.com/store/apps/details?id=com.tdizayn.pratikbakkal",
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/medya/guncelleandroid.gif",
+          "radius": 0
+        }
+        
+        {
+          "category": 221,
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/04-04-21--2.png",
+          "padding": 15.0
+        }, 
+        
+        {
+          "product": "16663",
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/clltbangbildirimslayt.jpg",
+          "padding": 15.0
+        },
+        
