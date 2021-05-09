@@ -17,6 +17,11 @@
       "radius": 2.0,
       "items": [
         {
+          "category": "929",
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/09-05-21.png",
+          "padding": 15.0
+        },
+        {
           "category": "264",
           "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/04-04-21--1.png",
           "padding": 15.0
@@ -60,6 +65,8 @@
       "height": 0.17,
       "rotate": [
         "Pratik Bakkal",
+        "kolonya",
+        "şekerleme",
         "Signal White Now",
         "Yudum Ayçiçek Yağı",
         "Dalin ıslak mendil",
@@ -68,6 +75,12 @@
       ],
       "type": "enes",
       "showSearch": true
+    },
+    {
+      "layout": "threeColumn",
+      "name": "Bayrama özel ürünler",
+      "image": "",
+      "category": 929
     },
     {
       "layout": "threeColumn",
