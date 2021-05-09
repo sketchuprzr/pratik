@@ -10,17 +10,18 @@
       "layout": "bannerImage",
       "items": [
         {
-          "product": "",
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/uyarı.jpg",
-          "padding": 4.0
+          "url_launch": "https://apps.apple.com/tt/app/pratik-bakkal/id1501414887",
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/medya/güncelle-ios.gif",
+          "radius": 0
         }
       ]
     }
   ],
   "Setting": {
-    "MainColor": "#3299CC",
+    "MainColor": "#FF9300",
     "ProductListLayout": "list",
-    "StickyHeader": true
+    "StickyHeader": false,
+    "ShowChat": true
   },
   "TabBar": [
     {
@@ -29,8 +30,9 @@
     }
   ],
   "searchSuggestion": [
-    "zeytinyağı",
-    "şampuan"
+    "Ona ayçiçek yağı",
+    "bizim margarin",
+    "toz şeker"
   ],
   "OnBoarding": {
     "data": [
