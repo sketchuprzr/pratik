@@ -84,6 +84,18 @@
     },
     {
       "layout": "threeColumn",
+      "name": "Şekerleme & Çikolatalar",
+      "image": "",
+      "category": 282
+    },
+    {
+      "layout": "threeColumn",
+      "name": "Kolonyalar",
+      "image": "",
+      "category": 366
+    },
+    {
+      "layout": "threeColumn",
       "name": "Kahvaltılarınızı Şenlendirin",
       "image": "",
       "category": 264
