@@ -10,32 +10,31 @@
       "layout": "bannerImage",
       "isSlider": true,
       "autoPlay": true,
-      "intervalTime" : 5,
       "showNumber": true,
+      "intervalTime": 5,
       "design": "default",
       "showBackGround": true,
       "radius": 2.0,
-      "padding": 15.0,
       "items": [
         {
-          "screen": "/blogs",
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/pp-slayt.png"
+          "category": "929",
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/09-05-21.png",
+          "padding": 15.0
         },
         {
-          "category": 384,
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/bebek-min.jpg"
-        },
-        {
-          "category": 358,
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/kişisel-min.jpg"
+          "category": "264",
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/04-04-21--1.png",
+          "padding": 15.0
         },
         {
           "category": 221,
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/temel-min.jpg"
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/04-04-21--2.png",
+          "padding": 15.0
         },
         {
           "category": 320,
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/temizlik-min.jpg"
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/04-04-21--3.png",
+          "padding": 15.0
         }
       ]
     },
@@ -45,43 +44,61 @@
         {
           "product": "",
           "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/info/info1.jpg",
-          "padding": 4.0
+          "padding": 4
         },
         {
           "url": "https://www.pratikbakkal.com/urun-iade-formu",
           "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/info/info2.jpg",
-          "padding": 4.0
+          "padding": 4
         },
         {
           "url": "https://www.pratikbakkal.com/urun-talep-formu-2/",
           "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/info/info3.jpg",
-          "padding": 4.0
+          "padding": 4
         }
       ]
     },
     {
       "layout": "header_text",
-      "fontsize": 20.0,
-      "padding": 40.0,
+      "fontsize": 20,
+      "padding": 40,
       "height": 0.17,
       "rotate": [
         "Pratik Bakkal",
-        "Evde Kal"
+        "kolonya",
+        "şekerleme",
+        "Signal White Now",
+        "Yudum Ayçiçek Yağı",
+        "Dalin ıslak mendil",
+        "Ülker Çokokrem",
+        "Alo Çamaşır Deterjanı"
       ],
       "type": "enes",
       "showSearch": true
     },
     {
-      "name": "İndirimde Olan Ürünler",
-      "image": "",
       "layout": "threeColumn",
-      "category": 640
+      "name": "Bayrama özel ürünler",
+      "image": "",
+      "category": 929
     },
     {
-      "name": "Önce Temizlik",
-      "image": "",
       "layout": "threeColumn",
-      "category": 320
+      "name": "Şekerleme & Çikolatalar",
+      "image": "",
+      "category": 282
+    },
+    {
+      "layout": "threeColumn",
+      "name": "Kolonyalar",
+      "image": "",
+      "category": 366
+    },
+    {
+      "layout": "threeColumn",
+      "name": "Kahvaltılarınızı Şenlendirin",
+      "image": "",
+      "category": 264
     },
     {
       "name": "Her Eve Lazım!",
@@ -90,26 +107,64 @@
       "category": 221
     },
     {
+      "name": "Önce Temizlik",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 320
+    },
+    {
+      "name": "Kişisel Bakım",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 358
+    },
+    {
       "name": "Bebekler için",
       "image": "",
       "layout": "threeColumn",
       "category": 384
     },
     {
-      "name": "Haberler!",
+      "name": "İçinizi Ferahlatın",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 298
+    },
+    {
+      "layout": "threeColumn",
+      "name": "Sağlıklı Kal!",
+      "image": "",
+      "category": 722
+    },
+    {
+      "type": "ezan",
+      "layout": "header_text",
+      "height": 0.22
+    },
+    {
+      "type": "saat",
+      "height": 0.22,
+      "layout": "header_text",
+      "ac": "09:00",
+      "kp": "18:00",
+      "acbaslik": "AÇILIŞ",
+      "kpbaslik": "KAPANIŞ"
+    },
+    {
+      "name": "Haberler",
       "layout": "blog"
     }
   ],
   "Setting": {
-    "MainColor": "#3299CC",
+    "MainColor": "#FF9300",
     "ProductListLayout": "list",
-    "StickyHeader": true
+    "StickyHeader": false,
+    "ShowChat": true
   },
-  "TabBar": [
-    {
-      "layout": "home",
-      "icon": "assets/icons/tabs/icon-home.png"
-    },
+  "TabBar": [{
+    "layout": "home",
+    "icon": "assets/icons/tabs/icon-home.png"
+  },
     {
       "layout": "category",
       "categoryLayout": "card",
@@ -125,13 +180,19 @@
     },
     {
       "layout": "profile",
-      "icon": "assets/icons/tabs/icon-user.png"
+      "icon": "assets/icons/tabs/icon-user.png",
+      "showChat": true
     }
   ],
   "searchSuggestion": [
-    "Ona ayçiçek yağı",
-    "bizim margarin",
-    "toz şeker"
+    "Yudum ayçiçek yağı",
+    "Signal White Now",
+    "Dalin ıslak mendil",
+    "Ülker Çokokrem",
+    "Alo Çamaşır Deterjanı",
+    "Toz Şeker",
+    "Toz Deterjan",
+    "Yumuşatıcı"
   ],
   "OnBoarding": {
     "data": [
