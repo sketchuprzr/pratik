@@ -2,197 +2,35 @@
   "HorizonLayout": [
     {
       "layout": "logo",
-      "showMenu": true,
+      "showMenu": false,
       "showSearch": false,
-      "showLogo": true
-    },
-    {
-      "layout": "bannerImage",
-      "isSlider": true,
-      "autoPlay": true,
-      "showNumber": true,
-      "intervalTime": 5,
-      "design": "default",
-      "showBackGround": true,
-      "radius": 2.0,
-      "items": [
-        {
-          "category": "929",
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/09-05-21.png",
-          "padding": 15.0
-        },
-        {
-          "category": "264",
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/04-04-21--1.png",
-          "padding": 15.0
-        },
-        {
-          "category": 221,
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/04-04-21--2.png",
-          "padding": 15.0
-        },
-        {
-          "category": 320,
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/Slayt/04-04-21--3.png",
-          "padding": 15.0
-        }
-      ]
+      "showLogo": false
     },
     {
       "layout": "bannerImage",
       "items": [
         {
           "product": "",
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/info/info1.jpg",
-          "padding": 4
-        },
-        {
-          "url": "https://www.pratikbakkal.com/urun-iade-formu",
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/info/info2.jpg",
-          "padding": 4
-        },
-        {
-          "url": "https://www.pratikbakkal.com/urun-talep-formu-2/",
-          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/info/info3.jpg",
-          "padding": 4
+          "image": "https://raw.githubusercontent.com/sketchuprzr/pratik/master/uyarı.jpg",
+          "padding": 4.0
         }
       ]
-    },
-    {
-      "layout": "header_text",
-      "fontsize": 20,
-      "padding": 40,
-      "height": 0.17,
-      "rotate": [
-        "Pratik Bakkal",
-        "kolonya",
-        "şekerleme",
-        "Signal White Now",
-        "Yudum Ayçiçek Yağı",
-        "Dalin ıslak mendil",
-        "Ülker Çokokrem",
-        "Alo Çamaşır Deterjanı"
-      ],
-      "type": "enes",
-      "showSearch": true
-    },
-    {
-      "layout": "threeColumn",
-      "name": "Bayrama özel ürünler",
-      "image": "",
-      "category": 929
-    },
-    {
-      "layout": "threeColumn",
-      "name": "Şekerleme & Çikolatalar",
-      "image": "",
-      "category": 282
-    },
-    {
-      "layout": "threeColumn",
-      "name": "Kolonyalar",
-      "image": "",
-      "category": 366
-    },
-    {
-      "layout": "threeColumn",
-      "name": "Kahvaltılarınızı Şenlendirin",
-      "image": "",
-      "category": 264
-    },
-    {
-      "name": "Her Eve Lazım!",
-      "image": "",
-      "layout": "threeColumn",
-      "category": 221
-    },
-    {
-      "name": "Önce Temizlik",
-      "image": "",
-      "layout": "threeColumn",
-      "category": 320
-    },
-    {
-      "name": "Kişisel Bakım",
-      "image": "",
-      "layout": "threeColumn",
-      "category": 358
-    },
-    {
-      "name": "Bebekler için",
-      "image": "",
-      "layout": "threeColumn",
-      "category": 384
-    },
-    {
-      "name": "İçinizi Ferahlatın",
-      "image": "",
-      "layout": "threeColumn",
-      "category": 298
-    },
-    {
-      "layout": "threeColumn",
-      "name": "Sağlıklı Kal!",
-      "image": "",
-      "category": 722
-    },
-    {
-      "type": "ezan",
-      "layout": "header_text",
-      "height": 0.22
-    },
-    {
-      "type": "saat",
-      "height": 0.22,
-      "layout": "header_text",
-      "ac": "09:00",
-      "kp": "18:00",
-      "acbaslik": "AÇILIŞ",
-      "kpbaslik": "KAPANIŞ"
-    },
-    {
-      "name": "Haberler",
-      "layout": "blog"
     }
   ],
   "Setting": {
-    "MainColor": "#FF9300",
+    "MainColor": "#3299CC",
     "ProductListLayout": "list",
-    "StickyHeader": false,
-    "ShowChat": true
+    "StickyHeader": true
   },
-  "TabBar": [{
-    "layout": "home",
-    "icon": "assets/icons/tabs/icon-home.png"
-  },
+  "TabBar": [
     {
-      "layout": "category",
-      "categoryLayout": "card",
-      "icon": "assets/icons/tabs/icon-category.png"
-    },
-    {
-      "layout": "search",
-      "icon": "assets/icons/tabs/icon-search.png"
-    },
-    {
-      "layout": "cart",
-      "icon": "assets/icons/tabs/icon-cart2.png"
-    },
-    {
-      "layout": "profile",
-      "icon": "assets/icons/tabs/icon-user.png",
-      "showChat": true
+      "layout": "home",
+      "icon": ""
     }
   ],
   "searchSuggestion": [
-    "Yudum ayçiçek yağı",
-    "Signal White Now",
-    "Dalin ıslak mendil",
-    "Ülker Çokokrem",
-    "Alo Çamaşır Deterjanı",
-    "Toz Şeker",
-    "Toz Deterjan",
-    "Yumuşatıcı"
+    "zeytinyağı",
+    "şampuan"
   ],
   "OnBoarding": {
     "data": [
