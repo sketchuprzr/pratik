@@ -1,10 +1,9 @@
 {
   
   "serverConfig": {
-    'type': 'wordpress',
-    'url': 'https://www.ggturkey.com',
-    'forgetPassword':
-        'https://www.ggturkey.com/wp-login.php?action=lostpassword'
+    "type": "wordpress",
+    "url": "https://www.ggturkey.com",
+    "forgetPassword":"https://www.ggturkey.com/wp-login.php?action=lostpassword"
   },
   "HorizonLayout": [
     {
