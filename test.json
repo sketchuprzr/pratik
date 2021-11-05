@@ -1,0 +1,122 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showLogo": true,
+      "showMenu": true,
+      "showSearch": false
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "design": "swiper",
+      "autoplay" : true,
+      "showBackGround": false,
+      "radius": 2.0,
+
+      "items": [
+        {
+          "url": "https://support.inspireui.com/help-center/articles/11/13/30/ui-customization",
+          "image": "https://images.unsplash.com/photo-1448131063153-f1e240f98a72?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+          "padding": 10.0
+
+        },
+        {
+          "blog_category": 41,
+          "image": "https://images.unsplash.com/photo-1496318447583-f524534e9ce1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+          "padding": 10.0
+        },
+        {
+          "blog_category": 31,
+          "image": "https://images.unsplash.com/photo-1558920558-fb0345e52561?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+          "padding": 10.0
+        }
+      ]
+    },
+
+    {
+      "layout" : "enes"
+    },
+
+    {
+      "layout" : "largeCardHorizontalListItems",
+      "imageBorder": 20,
+      "category": 60,
+      "name": "Popular dishes"
+    },
+    {
+      "layout" : "sliderList",
+      "type" :"",
+      "name": "Greatest Videos",
+      "category": 60
+    },
+    {
+      "layout" : "sliderList",
+      "type" :"imageOnTheRight",
+      "name": "Recent Recipe",
+      "category": 60,
+      "imageBorder": 20
+    },
+    {
+      "layout" : "sliderItem",
+
+      "name": "Recent Recipe",
+      "category": 60
+    },
+    {
+      "name": "Food For Kids",
+      "image": "",
+      "layout": "card",
+      "category": 60
+    },
+    {
+      "name": "Healthy Foods",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 60
+    },
+    {
+      "name": "Sweetie Sweet Sweet",
+      "image": "",
+      "layout": "fourColumn",
+      "category": 60
+    },
+    {
+      "name": "Community Sharing",
+      "image": "",
+      "layout": "staggered",
+      "category": 60
+    }
+
+
+  ],
+  "Setting": {
+    "MainColor": "#e74c3c",
+    "ProductListLayout": "list"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "assets/icons/tabs/icon-home.png"
+    },
+    {
+      "layout": "category",
+      "categoryLayout": "card",
+      "icon": "assets/icons/tabs/icon-category.png",
+      "showSearch": false
+    },
+    {
+      "layout": "search",
+      "icon": "assets/icons/tabs/icon-search.png"
+    },
+    {
+      "layout": "profile",
+      "icon": "assets/icons/tabs/icon-user.png",
+      "showChat": false
+    }
+  ],
+  "SplashScreen": {
+    "type": "animated",
+    "data" : "assets/images/splashscreen.png"
+  }
+}
